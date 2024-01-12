@@ -6,6 +6,12 @@ public class Git_Demo_PushPull
 	{
 	System.out.println("This is Method m1");
 	}
+	
+	public void m2() 
+	{
+	System.out.println("This is By Branch to master pull");
+	}
+	
 	public static void main(String[] args) 
 	{
 	System.out.println("This is main Method");	
